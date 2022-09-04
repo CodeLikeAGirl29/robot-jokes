@@ -33,7 +33,7 @@ List the ready features here:
 
 
 ## Screenshots
-![Example screenshot](https://res.cloudinary.com/codelikeagirl29/image/upload/v1662286924/ScreenShot_Tool_-20220904062119_to7tv1.png)
+![screenshot](https://res.cloudinary.com/codelikeagirl29/image/upload/v1662288019/Cloudinary_Management_Console_-_Media_Library_umazfi.gif)
 
 
 ## Project Status
