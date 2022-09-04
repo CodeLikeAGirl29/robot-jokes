@@ -1,8 +1,3 @@
-# Robot Jokes
-
-![screenshot](https://res.cloudinary.com/codelikeagirl29/image/upload/v1662286924/ScreenShot_Tool_-20220904062119_to7tv1.png)
-
-
 # Robot Jokester
 > Building a Joke Telling REobot gify using a [Text-to-speech API](http://www.voicerss.org/) and a [Joke API](https://sv443.net/jokeapi/v2/)
 > Live demo [_here_](https://codelikeagirl29.github.io/robot-jokes/).
