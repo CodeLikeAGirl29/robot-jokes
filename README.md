@@ -47,4 +47,4 @@ Giving credit here.
 
 --or--
 
-<a href="http://lindseyk.dev"view my portfolio</a>
+<a href="http://lindseyk.dev">view my portfolio</a>
