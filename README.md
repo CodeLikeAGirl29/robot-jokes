@@ -44,4 +44,7 @@ Giving credit here.
 
 ## Contact
 [email](mailto:codelikeagirl91@gmail.com) me.
-view my [portfolio](http://lindseyk.dev)
+
+--or--
+
+<a href="http://lindseyk.dev"view my portfolio</a>
