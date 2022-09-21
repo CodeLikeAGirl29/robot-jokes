@@ -2,6 +2,10 @@
 > Building a Joke Telling REobot gify using a [Text-to-speech API](http://www.voicerss.org/) and a [Joke API](https://sv443.net/jokeapi/v2/)
 > Live demo [_here_](https://codelikeagirl29.github.io/robot-jokes/).
 
+![screenshot](https://res.cloudinary.com/codelikeagirl29/image/upload/v1662288019/projects/Cloudinary_Management_Console_-_Media_Library_umazfi.gif)
+
+---
+
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
