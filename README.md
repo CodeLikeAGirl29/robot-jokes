@@ -1,8 +1,6 @@
 # Robot Jokester
-> Building a Joke Telling REobot gify using a [Text-to-speech API](http://www.voicerss.org/) and a [Joke API](https://sv443.net/jokeapi/v2/)
+> Building a silly Joke Telling Shark using a [Text-to-speech API](http://www.voicerss.org/) and a [Joke API](https://sv443.net/jokeapi/v2/)
 > Live demo [_here_](https://codelikeagirl29.github.io/robot-jokes/).
-
-![screenshot](https://res.cloudinary.com/codelikeagirl29/image/upload/v1662288019/projects/Cloudinary_Management_Console_-_Media_Library_umazfi.gif)
 
 ---
 
@@ -21,7 +19,7 @@
 
 
 ## Technologies Used
-- JavaScript - version 1.0
+- JavaScript - version 2.0
 - Voice RSS - version 1.0
 - Joke API - version 1.0
 
@@ -29,11 +27,11 @@
 ## Features
 List the ready features here:
 - Click button to hear and see a joke
-- Cute GIFY robot graphic
+- Cute shark graphic
 
 
 ## Screenshots
-![screenshot](https://res.cloudinary.com/codelikeagirl29/image/upload/v1662288019/Cloudinary_Management_Console_-_Media_Library_umazfi.gif)
+![screenshot](https://res.cloudinary.com/codelikeagirl29/image/upload/v1680187334/projects/Joke-Teller_v45fmo.png)
 
 
 ## Project Status

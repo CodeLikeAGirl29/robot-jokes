@@ -44,15 +44,15 @@ async function getJokes() {
 // Passing Joke to VoiceRSS API
 function tellMeAJoke(joke) {
 	VoiceRSS.speech({
-		key: "5ff4b1b6ab8143f488a977bc3a2f2a9c",
-		src: joke,
-		hl: "en-us",
-		v: "Linda",
-		r: 0,
-		c: "mp3",
-		f: "44khz_16bit_stereo",
-		ssml: false,
-	});
+    key: "fc2241cb58d5413cb7b7a44369c61f5f",
+    src: joke,
+    hl: "en-us",
+    v: "Linda",
+    r: 0,
+    c: "mp3",
+    f: "44khz_16bit_stereo",
+    ssml: false,
+  });
 }
 
 // Event Listeners
